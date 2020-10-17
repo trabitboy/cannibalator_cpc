@@ -1,0 +1,6 @@
+HOW_TO_BUILD:
+
+build using winape 2.
+open the assembler window in the menu,
+load the source of the main file "cannibalator_main.asm"
+choose assemble run ( f9 ), and winape should start it on title screen.
